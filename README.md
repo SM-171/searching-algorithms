@@ -1,4 +1,4 @@
-# searching-algorithms
+# Searching Algorithms
 
 # Linear Search
 
